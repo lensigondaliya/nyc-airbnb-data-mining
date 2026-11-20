@@ -1,0 +1,67 @@
+if,then,support,confidence,lift
+amen_free_street_parking + short_stay,license_registered,0.052,0.744,9.982
+amen_cooking_basics + short_stay,license_registered,0.054,0.609,8.168
+boro_Manhattan + short_stay,license_exempt,0.077,0.725,7.538
+amen_dedicated_workspace + license_exempt,short_stay,0.064,0.993,5.149
+amen_bed_linens + license_exempt,short_stay,0.078,0.992,5.142
+amen_self_check-in + license_exempt,short_stay,0.065,0.992,5.142
+amen_coffee_maker + license_exempt,short_stay,0.051,0.991,5.14
+amen_carbon_monoxide_alarm + license_exempt,short_stay,0.085,0.989,5.126
+amen_fire_extinguisher + license_exempt,short_stay,0.065,0.989,5.126
+amen_refrigerator + license_exempt,short_stay,0.055,0.988,5.125
+license_exempt + price_high,short_stay,0.069,0.988,5.124
+amen_bed_linens + hotel,short_stay,0.063,0.988,5.122
+amen_first_aid_kit + license_exempt,short_stay,0.051,0.988,5.12
+amen_heating + license_exempt,short_stay,0.074,0.988,5.12
+amen_hangers + license_exempt,short_stay,0.082,0.987,5.117
+amen_smoke_alarm + license_exempt,short_stay,0.092,0.987,5.115
+amen_shampoo + license_exempt,short_stay,0.081,0.985,5.107
+amen_hair_dryer + license_exempt,short_stay,0.088,0.984,5.103
+amen_essentials + license_exempt,short_stay,0.083,0.984,5.1
+amen_iron + license_exempt,short_stay,0.083,0.984,5.1
+amen_tv + license_exempt,short_stay,0.057,0.983,5.098
+amen_hot_water + license_exempt,short_stay,0.06,0.983,5.096
+amen_air_conditioning + license_exempt,short_stay,0.08,0.982,5.093
+license_exempt,short_stay,0.094,0.982,5.092
+amen_wifi + license_exempt,short_stay,0.09,0.981,5.087
+hotel + price_high,short_stay,0.055,0.98,5.079
+boro_Manhattan + license_exempt,short_stay,0.077,0.979,5.077
+amen_free_street_parking + license_registered,short_stay,0.052,0.979,5.073
+amen_self_check-in + license_registered,short_stay,0.051,0.978,5.07
+amen_hair_dryer + license_registered,short_stay,0.062,0.978,5.069
+amen_refrigerator + license_registered,short_stay,0.054,0.978,5.069
+license_registered + room_Private room,short_stay,0.059,0.977,5.067
+amen_microwave + license_registered,short_stay,0.059,0.977,5.067
+amen_hangers + license_registered,short_stay,0.064,0.977,5.064
+amen_hot_water + license_registered,short_stay,0.069,0.977,5.064
+amen_essentials + license_registered,short_stay,0.057,0.976,5.062
+amen_bed_linens + license_registered,short_stay,0.061,0.976,5.059
+amen_wifi + license_registered,short_stay,0.064,0.976,5.058
+amen_iron + license_registered,short_stay,0.06,0.975,5.054
+amen_fire_extinguisher + license_registered,short_stay,0.051,0.974,5.051
+amen_cooking_basics + license_registered,short_stay,0.054,0.974,5.05
+amen_dishes_and_silverware + license_registered,short_stay,0.06,0.974,5.049
+license_registered,short_stay,0.073,0.973,5.042
+amen_carbon_monoxide_alarm + license_registered,short_stay,0.068,0.973,5.042
+amen_dedicated_workspace + hotel,short_stay,0.056,0.972,5.041
+amen_smoke_alarm + license_registered,short_stay,0.071,0.972,5.039
+amen_kitchen + license_registered,short_stay,0.062,0.971,5.032
+amen_self_check-in + hotel,short_stay,0.056,0.968,5.017
+amen_essentials + hotel,short_stay,0.07,0.966,5.009
+amen_shampoo + hotel,short_stay,0.07,0.966,5.007
+amen_heating + hotel,short_stay,0.067,0.966,5.006
+amen_hair_dryer + hotel,short_stay,0.071,0.963,4.991
+amen_hangers + hotel,short_stay,0.059,0.961,4.981
+amen_iron + hotel,short_stay,0.066,0.961,4.98
+amen_air_conditioning + hotel,short_stay,0.069,0.958,4.964
+amen_smoke_alarm + hotel,short_stay,0.067,0.957,4.963
+hotel,short_stay,0.073,0.956,4.957
+amen_wifi + hotel,short_stay,0.072,0.956,4.957
+boro_Manhattan + hotel,short_stay,0.063,0.955,4.952
+amen_carbon_monoxide_alarm + hotel,short_stay,0.055,0.951,4.931
+hotel + room_Private room,short_stay,0.057,0.951,4.928
+price_high + room_Private room,short_stay,0.063,0.886,4.595
+amen_room-darkening_shades + price_high,short_stay,0.055,0.674,3.493
+amen_shampoo + price_high,short_stay,0.1,0.636,3.298
+amen_self_check-in + price_high,short_stay,0.084,0.624,3.236
+amen_shower_gel + price_high,short_stay,0.061,0.605,3.136
